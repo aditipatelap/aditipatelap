@@ -32,3 +32,7 @@
 
 
 <a href="https://github.com/aditipatelap?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=aditipatelap&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Aditi's github stats" /></a>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=Drishty06&theme=react-dark&hide_border=true)
+<br>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
