@@ -6,7 +6,7 @@
 <br/><br/>
 
 <h4>🔭 I'm Currently Working On</h4>
-  <br/>&emsp;🚀  Problem Solving by honing DSA skills
+   &emsp;🚀  Problem Solving by honing DSA skills
   <br/>&emsp;🚀  Competitive Programming 
 <p align="left">
   <p align = "left"><h3 align="left">👇🤩YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
