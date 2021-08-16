@@ -3,8 +3,7 @@
   🚀 💻 🚀 💻 🚀 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="100px">
 <h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
-<br/><br/>
-
+<br/>
 <h4>🔭 I'm Currently Working On</h4>
    &emsp;🚀  Problem Solving by honing DSA skills
   <br/>&emsp;🚀  Competitive Programming 
