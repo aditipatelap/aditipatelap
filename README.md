@@ -1,4 +1,4 @@
-<h1 align="left"> < Hello Coders 🖥, I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<h1 align="left"> Hello Coders 🖥, I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="100px">
@@ -12,9 +12,9 @@
       <br> **ampaditipatel@gmail.com**
 <p align="left">
   <p align = "left"><h3 align="left">👇🤩YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
-  
+
 &emsp;&emsp;<a href="https://www.linkedin.com/in/aditi-patel-21a170205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
-&emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Drishty Ganatra" height="30" width="40" /></a>
+&emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="30" width="40" /></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
