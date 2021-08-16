@@ -1,5 +1,5 @@
 <h1 align="left"> < Hello Coders 🖥, I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-<img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="300" />
+<img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
 🚀💻🚀💻🚀
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap">
 <h3> 👩‍🎓 Pursuing Computer Engineering - 2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers ⌨  are smart people 🤓 with the ability to do incredibly stupid things.💯
