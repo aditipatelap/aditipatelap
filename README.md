@@ -37,4 +37,4 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=aditipatelap&theme=react-dark&hide_border=true)
 <br>
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+<p align="center"> <img src="https://gifimage.net/wp-content/uploads/2017/08/rocket-gif-13.gif" height="160px" width="160px">
