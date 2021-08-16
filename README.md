@@ -5,7 +5,7 @@
 <h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/><br/>
 
-<h4>🔭 I am Currently Working On</h4>
+<h4>🔭 I'm Currently Working On</h4>
   <br/>&emsp;🚀  Problem Solving by honing DSA skills
   <br/>&emsp;🚀  Competitive Programming 
 <p align="left">
