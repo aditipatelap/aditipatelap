@@ -10,7 +10,7 @@
   &emsp;🚀  Competitive Programming 
   <br/><br/>
 <p align="left">
-  <p align = "left"><h3 align="left">You Can Find Me Here : 🤩👇 </p>  </h3>
+  <p align = "left"><h3 align="left">You Can Find Me Here : 📌 </p>  </h3>
   
 &emsp;&emsp;<a href="https://www.linkedin.com/in/aditi-patel-21a170205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35" /></a>
 &emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="35" width="35" /></a>
