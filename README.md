@@ -2,7 +2,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="100px">
-<h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯
+<h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/><br/>
 
 🔭 I am Currently Working On
