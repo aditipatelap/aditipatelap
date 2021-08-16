@@ -3,7 +3,7 @@
 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap">
 <h3> 👩‍🎓 Pursuing Computer Engineering - 2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers ⌨  are smart people 🤓 with the ability to do incredibly stupid things.
-
+<br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipatelap&label=Profile%20views&color=0e75b6&style=flat" alt="aditipatelap" /> </p>
 
 - 🔭 I’m currently working on 
