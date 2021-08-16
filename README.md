@@ -31,8 +31,8 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> </p>
 
 <div align="center">
-  <a href="https://github.com/aditipatelap?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=aditipatelap&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Aditi's github stats" /></a>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditipatel&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditipatelap&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditipatelap&theme=radical&show_icons=true" />
 </div>
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=aditipatelap&theme=react-dark&hide_border=true)
