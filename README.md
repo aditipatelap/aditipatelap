@@ -14,7 +14,7 @@
 &emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="35" width="35" /></a>
 &emsp;<a href="https://twitter.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" /></a>
 
-<h3 align="left"> <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> Connect With Me:</h3>
+<h3 align="left"> Connect With Me:<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> </h3>
 <p align="left">
 &emsp;&emsp;<a href="https://www.codechef.com/users/ampaditipatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ampaditipatel" height="35" width="35" /></a>
 &emsp;<a href="https://www.hackerrank.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ampaditipatel" height="35" width="35" /></a>
