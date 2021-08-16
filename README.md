@@ -2,12 +2,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap">
-<h3> 👩‍🎓 Pursuing Computer Engineering - 2nd Year🎓.<br /> A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers ⌨  are smart people 🤓 with the ability to do incredibly stupid things.
+<h3> 👩‍🎓 Pursuing Computer Engineering - 2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers ⌨  are smart people 🤓 with the ability to do incredibly stupid things.
 
-
-<p align="left">
-  <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipatelap&label=Profile%20views&color=0e75b6&style=flat" alt="aditipatelap" /> </p>
 
 - 🔭 I’m currently working on 
