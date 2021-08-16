@@ -1,4 +1,4 @@
-<h1 align="left"> Hello Coders 🖥<br/> I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="left"> Hello Coders 🖥<br/><br/> I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀 
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="100px">
