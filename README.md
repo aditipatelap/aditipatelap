@@ -6,7 +6,7 @@
 <br/><br/>
 
 - 🔭 I’m currently working on 
-      <br> **🚀 Problem Solving by honing DSA skills**
+      <br/> <br/>**🚀 Problem Solving by honing DSA skills**
 
 - 📫 How to reach me 
       <br> **ampaditipatel@gmail.com**
