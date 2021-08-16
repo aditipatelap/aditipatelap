@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditi Patel</h1>
-<h3 align="center">🟠Pursuing Computer Engineering - 2nd Year🎓.</h3>
+<h1 align="left"> < Hello Coders🚀, I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipatelap&label=Profile%20views&color=0e75b6&style=flat" alt="aditipatelap" /> </p>
 
