@@ -4,9 +4,10 @@
 <br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="90px">
 <h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A Computer 🖥 is a stupid Machine with the ability to do incredibly Smart things ✨ , while Computer Programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/>
-<h4>🔭 I'm Currently Working On</h4>
+<h3>I'm Currently Working On : 🔭</h3>
    &emsp;🚀  Problem Solving by honing DSA skills
-  <br/>&emsp;🚀  Competitive Programming 
+  <br/>
+  &emsp;🚀  Competitive Programming 
   <br/><br/>
 <p align="left">
   <p align = "left"><h3 align="left">You Can Find Me Here : 🤩👇 </p>  </h3>
