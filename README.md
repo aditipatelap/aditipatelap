@@ -32,10 +32,3 @@
 
 
 <a href="https://github.com/aditipatelap?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=aditipatelap&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Aditi's github stats" /></a>
-<a href="https://github.com/aditipatelap?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipatelap&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
-
-<!-- <a href="https://wakatime.com/@aditipatelap"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=aditipatelap&layout=compact&theme=algolia&custom_title=Aditi's Wakatime Stats" 
-alt="Jaynil's Wakatime Stats"/></a> -->
-<!--<a href="https://github.com/aditipatelap/ADS-PRO"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditipatelap&repo=ADS-PRO&theme=tokyonight" alt="ADS-PRO"/></a>
-<a href="https://github.com/aditipatelap/AuctionPro"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aditipatelap&repo=AuctionPro&theme=tokyonight" alt="AuctionPro"/></a>
--->
