@@ -1,10 +1,10 @@
 <h1 align="left"> Hello Coders 🖥, I'm Aditi Patel<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h1>
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀 
-<br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="100px">
+<br /><br /><img src="https://badges.pufler.dev/visits/aditipatelap/aditipatelap" width="90px">
 <h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/>
-<h4><img src="https://gifimage.net/wp-content/uploads/2017/08/rocket-gif-13.gif" width="30px"> I'm Currently Working On</h4>
+<h4>🔭 I'm Currently Working On</h4>
    &emsp;🚀  Problem Solving by honing DSA skills
   <br/>&emsp;🚀  Competitive Programming 
 <p align="left">
