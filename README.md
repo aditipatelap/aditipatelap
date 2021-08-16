@@ -5,9 +5,9 @@
 <h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Year🎓.<br /> <br/>A computer 🖥 is a stupid machine with the ability to do incredibly smart things ✨ , while computer programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/><br/>
 
-🔭 I am Currently Working On
-  <br />&emsp;🚀 Problem Solving by honing DSA skills
-  <br />&emsp;🚀 Competitive Programming 
+<h4>🔭 I am Currently Working On</h4>
+  <br/>&emsp;🚀  Problem Solving by honing DSA skills
+  <br/>&emsp;🚀  Competitive Programming 
 <p align="left">
   <p align = "left"><h3 align="left">👇🤩YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
   
