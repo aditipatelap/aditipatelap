@@ -10,9 +10,9 @@
 <p align="left">
   <p align = "left"><h3 align="left">👇🤩YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
   
-&emsp;&emsp;<a href="https://www.linkedin.com/in/aditi-patel-21a170205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-&emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="30" width="40" /></a>
-&emsp;<a href="https://twitter.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+&emsp;&emsp;<a href="https://www.linkedin.com/in/aditi-patel-21a170205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" width="60" /></a>
+&emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="60" width="60" /></a>
+&emsp;<a href="https://twitter.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="60" width="60" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
