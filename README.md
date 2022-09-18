@@ -13,15 +13,15 @@
   <br/>
   &emsp;🚀  Serving as core leader in IEEE VGEC Student Branch 
   <br/>
+
 <p align="left">
-  <p align = "left"><h3 align="left">You Can Find Me Here : 📌 </p>  </h3>
-  
+  <p align = "left"><h3 align="left"> Connect With Me : <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> </p>  </h3>
 &emsp;&emsp;<a href="https://www.linkedin.com/in/aditi-patel-21a170205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
 &emsp;<a href="https://github.com/aditipatelap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Aditi Patel" height="30" width="30" /></a>
 &emsp;<a href="https://twitter.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="30" /></a>
 <br/><br/>
 
-<h3 align="left"> Connect With Me : <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="30px"/> </h3>
+<h3 align="left"> You Can Find Me Here : 📌  </h3>
 <p align="left">
 &emsp;&emsp;<a href="https://www.leetcode.com/ampaditipatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ampaditipatel" height="35" width="35" /></a>
 &emsp;<a href="https://auth.geeksforgeeks.org/user/aditipatelap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditipatelap" height="35" width="35" /></a>
