@@ -2,5 +2,5 @@
 <img align="right" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" height="350" />
   🚀 💻 🚀 💻 🚀 
 
-<h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd Year🎓<br /> <br/>A Computer 🖥 is a stupid Machine with the ability to do incredibly Smart things ✨ , while Computer Programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
+<h3> 👩‍🎓 Pursuing Computer Engineering <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /> <br/>A Computer 🖥 is a stupid Machine with the ability to do incredibly Smart things ✨ , while Computer Programmers 👩‍💻 are smart people 🤓 with the ability to do incredibly stupid things.💯</h3>
 <br/>
